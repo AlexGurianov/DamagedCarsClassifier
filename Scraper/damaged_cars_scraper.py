@@ -9,7 +9,7 @@ basic_request_link = "https://www.copart.com/public/lots/search?draw=1&columns%5
 
 i = 0
 
-for page in range(59,62):
+for page in range(62):
     print("Parsing page", page)
     req = urllib.Request(basic_request_link.replace('<PAGE>', str(page)).replace('<START>', str(100*page)), method='POST')
     req.add_header('Cookie',
