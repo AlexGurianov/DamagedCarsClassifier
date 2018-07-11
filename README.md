@@ -1,6 +1,6 @@
 A project for binary classification of car photos into damaged and good (undamaged) categories using Keras with TensorFlow backend and sklearn.
 
-This repository is structured as follows:
+This repository is structured as follows.
 
 Scraping
 --------
