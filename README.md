@@ -2,8 +2,8 @@ A project for binary classification of car photos into damaged and good (undamag
 
 This repository is structured as follows.
 
-Scraping
---------
+Scraper
+-------
 
 Contains a script used for scraping photos of cars with unrepairable damage from an auction site.
 
